@@ -1,12 +1,24 @@
-## Hi there 👋
+# **edorbit**
 
-<!--
+edorbit is an innovative educational platform by **Nbytech Immersive Pvt Ltd**, designed to simplify learning through interactive visualizations and engaging content.
 
-**Here are some ideas to get you started:**
+## **Features**
+- Visualizes complex concepts for better understanding.
+- User-friendly and scalable for students and institutions.
+- Robust tools to manage topics, subjects, and chapters.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## **Tech Stack**
+- **Frontend**: React (TypeScript), Vite, Tailwind CSS, NextUI.
+- **Backend**: Spring Boot, JWT, MySQL, Lombok, Spring Data.
+- **Cloud**: Google Cloud Platform, GCP App Engine.
+
+
+## Contributors ✨
+
+Thanks to these amazing people for their contributions:
+
+<!-- ALL-CONTRIBUTORS-LIST:START -->
+<!-- You can generate this list automatically -->
+- **Abhishek Kumar Yadav** 👨‍💻  
+- **[Other Contributors Here]**
+<!-- ALL-CONTRIBUTORS-LIST:END -->
