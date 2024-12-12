@@ -12,13 +12,9 @@ edorbit is an innovative educational platform by **Nbytech Immersive Pvt Ltd**, 
 - **Backend**: Spring Boot, JWT, MySQL, Lombok, Spring Data.
 - **Cloud**: Google Cloud Platform, GCP App Engine.
 
+## **Contact Us**
 
-## Contributors ✨
+For any inquiries or support, feel free to reach out to us:
 
-Thanks to these amazing people for their contributions:
-
-<!-- ALL-CONTRIBUTORS-LIST:START -->
-<!-- You can generate this list automatically -->
-- **Abhishek Kumar Yadav** 👨‍💻  
-- **[Other Contributors Here]**
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+- **Email**: [admin@edorbit.in](admin@edorbit.in)
+- **Website**: [edorbit.com](https://edorbit.com)
